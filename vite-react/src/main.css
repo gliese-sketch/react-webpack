@@ -1,0 +1,21 @@
+body {
+  background-color: azure;
+  font-family: sans-serif;
+}
+
+.heading {
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.card {
+  padding: 1rem;
+  min-height: 100px;
+  border: 1px solid black;
+  width: 185px;
+  border-radius: 8px;
+}
+
+.card img {
+  border-radius: 50%;
+}
